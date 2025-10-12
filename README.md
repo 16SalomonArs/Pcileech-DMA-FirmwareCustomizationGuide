@@ -13,7 +13,8 @@
 
 ### How to get help
 
-Beater DC  is a scammer! Since our cooperation began in March, the channel admin has repeatedly delayed paying me for the firmware work I produced. At the beginning of September, when I asked for my payment, he kicked me and other developers out of the server! Beater DC is a fraudster who exploited me and my friends for profit. Don’t fall for his tricks.
+Beater DC  is a scammer! Since our cooperation began in March(<img width="320" height="350" alt="image" src="https://github.com/user-attachments/assets/48f87bd6-3c6d-4e07-bb76-179ba6e44b42" />
+![52ab7cbc3c0bec5ecb21e22292945d22](https://github.com/user-attachments/assets/de0764a5-8dbd-4531-a68e-7b7e5f8b93cb)), the channel admin has repeatedly delayed paying me for the firmware work I produced. At the beginning of September, when I asked for my payment, he kicked me and other developers out of the server! Beater DC is a fraudster who exploited me and my friends for profit. Don’t fall for his tricks.
 
 # Let's start making firmware！
 
