@@ -5,17 +5,13 @@
 **😊That's why this guide was created, to make your own proprietary firmware with zero experience!**
 
 ### Emphasis
-* This guide teaches you to make your own firmware using open source projects instead of starting from scratch!
 
-* The guide follow step by step, enough to make firmware for BE!
+This tutorial is out of date for 2026 and should not be used as a reference. I'm working on a more detailed version and will upload it soon. Thanks for your patience!
 
-* This guide uses descriptions that even primary school children can understand!
-
-### Beater DC is a scammer!
-Beater DC is a scammer! Since our cooperation began in March, the channel admin has repeatedly delayed paying me for the firmware work I produced. At the beginning of September, when I asked for my payment, he kicked me and other developers out of the server! Beater DC is a fraudster who exploited me and my friends for profit. Don’t fall for his tricks.
-<img width="3542" height="1676" alt="image" src="https://github.com/user-attachments/assets/65306643-8760-421a-b0bd-ce8ddff4bebf" />
-<img width="624" height="670" alt="image" src="https://github.com/user-attachments/assets/f7bd4714-58be-4478-9c0e-b74c2963a9c7" />
-<img width="1266" height="678" alt="image" src="https://github.com/user-attachments/assets/30843d20-53c7-4fe0-870b-25d525bb749a" />
+### ⚠️ SCAM ALERT: Beater DC is a fraud!
+He owed me months of firmware development fees (March - Sept 2025) and chose to kick me and my team from the server instead of paying up. He is profiting off stolen labor. Avoid Beater DC at all costs! He will take your work and run.
+# <img width="3542" height="1676" alt="image" src="https://github.com/user-attachments/assets/65306643-8760-421a-b0bd-ce8ddff4bebf" />
+# <img width="1266" height="678" alt="image" src="https://github.com/user-attachments/assets/30843d20-53c7-4fe0-870b-25d525bb749a" />
 
 # Let's start making firmware！
 
